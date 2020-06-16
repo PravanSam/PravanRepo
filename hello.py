@@ -1,3 +1,3 @@
-Print ("Hi, how are you)
-print ("Second line")
+Print ("Hi, how are you- changes)
+print ("Second  line - after changes")
 
